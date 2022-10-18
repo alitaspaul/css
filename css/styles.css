@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    text-align: center;
+
+}
+
+h2 {
+    padding-bottom: 100px;
+    font-family: 'Roboto Slab', serif;
+    color: #425F57;
+}
+.tab
+{
+    position: fixed;
+    height: 50px;
+    width:max-content;
+    background-color: #EDEDED;
+    color: black;
+    font-family: 'Roboto Slab', serif;
+
+}
+.tabletab{
+border: spacing 300px; ;
+}
+.top-container {
+    line-height: 2;
+    background-color: #B4CDE6;
+}
+.middle-container{
+    font-family: 'Roboto', sans-serif;
+}
+.top-container{
+    font-family: 'Roboto', sans-serif;
+}
+
+.cloud1 {
+    position: relative;
+    bottom: 300px;
+}
+
+.cloud2 {
+    position: relative;
+    bottom: 400px;
+    left: 500px;
+}
+
+.mountain {
+    position: relative;
+    right: 120px;
+}
+
+#head {
+    color: #425F57;
+    padding-top: 400px;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.6rem;
+}
